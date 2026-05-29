@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Yoshita
 
-<!--
-**yoshitadewani/yoshitadewani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Graphic Designer  
+💻 Learning Web Development  
+✨ Open to freelance work
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+
+* **Portfolio:** [yoshitadewaniportfolio.netlify.app](https://yoshitadewaniportfolio.netlify.app)
+* **Instagram:** [@unfiltered.yoshi](https://www.instagram.com/unfiltered.yoshi/)
+* **LinkedIn:** [Yoshita Dewani](https://www.linkedin.com/in/yoshita-dewani-603b73366/)
+---
+
+## 🛠 Skills
+
+- Canva
+- Photoshop
+- Branding
+- UI Design
+- Thumbnail Design
+
+
