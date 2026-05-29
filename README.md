@@ -4,6 +4,7 @@
 💻 Learning Web Development  
 ✨ Open to freelance work
 
+![Yoshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshitadewani&show_icons=true&theme=radical)
 ---
 
 ## 🌐 Connect With Me
@@ -14,6 +15,7 @@
 ---
 
 ## 🛠 Skills
+https://img.shields.io/badge/Label-Design-blue
 
 - Canva
 - Photoshop
